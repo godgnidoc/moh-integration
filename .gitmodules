@@ -2,3 +2,6 @@
 	path = motor-controller
 	url = git@github.com:godgnidoc/moh-motor-controller.git
 	branch = main
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = git@github.com:godgnidoc/moh-kicad-libraries.git
