@@ -1,0 +1,4 @@
+[submodule "motor-controller"]
+	path = motor-controller
+	url = git@github.com:godgnidoc/moh-motor-controller.git
+	branch = main
